@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Andoid Challenge 1</string>
+    <string name="main_activity_title">ACL 4 Phase 1</string>
+    <string name="TitleText">Welcome to ALC 4.0</string>
+
+
+    <string name="Button_ALC">ABOUT ALC</string>
+    <string name="Button_about_text">ABOUT ALC</string>
+
+    <string name="Button_Profile">MY PROFILE</string>
+    <string name="Button_Profile_text">MY PROFILE</string>
+    <string name="button_profile_text">MY PROFILE</string>
+    <string name="My_Profile">My Profile</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="Text_View_Names">Tumisang Liphoto</string>
+
+    <string name="TextView_Track_Value">Track:"</string>
+    <string name="textView_Country_Value">Country:"</string>
+    <string name="textView_Email">Email:</string>
+    <string name="textView_number_Value">Phone Number"</string>
+    <string name="TextView_Slack_Value">Slack Username:</string>
+    <string name="textView_Slack">Slack Username:</string>
+
+    <string name="Salck_User_Name">Tumisang</string>
+    <string name="Telephone">+266 6309 7293</string>
+    <string name="Email">mrsechocha@gmail.com</string>
+    <string name="Country">Lesotho</string>
+    <string name="Track">Android</string>
+    <string name="AboutACL">About ACL</string>
+    About ACL
+
+
+</resources>
